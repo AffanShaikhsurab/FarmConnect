@@ -1,6 +1,3 @@
-Here’s a GitHub README template for your "NeedFit" project under the GDSC chapter at Dr. AIT:
-
----
 
 # NeedFit - Empowering Farmers through AI and Direct Marketplace
 
