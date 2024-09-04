@@ -88,6 +88,3 @@ flutter run
 
 FarmConnect is our solution to the severe issues that farmers face daily. By the end of this hackathon, we aim to have a working prototype that showcases how AI and direct marketplace integration can revolutionize the agricultural sector. Our platform will offer fair pricing, eliminate middlemen, and empower farmers through technology, ultimately aiming to reduce the financial and social burdens that currently plague this vital industry.
 
----
-
-This version of the README is designed to highlight what your team will be building during the hackathon, presenting it as a compelling pitch to potential judges or stakeholders.
